@@ -1,0 +1,35 @@
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+}
+
+#delete-form {
+  display: inline;
+}
+
+.content {
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  width: 100%;
+  align-items: center;
+}
+
+.gotocamp {
+  text-decoration: none;
+  padding: 10px;
+  background-color: rgb(212, 212, 212);
+  color: black;
+}
+
+.gotocamp:hover {
+  text-decoration: none;
+}
