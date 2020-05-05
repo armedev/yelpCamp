@@ -4,4 +4,6 @@
 
 ## this project Involves a nosql mongodb database.
 
-## <p>Amedev all rights reserved</p>
+## <p> Armedev.com 2020
+
+## copyrights all rights reserved. </p>
