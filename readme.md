@@ -10,6 +10,6 @@
 
 ## this project is built with respect to today's real world scenario.
 
-<p> Armedev.com 2020
+<p> Armedev 2020
 <br/>
 copyrights all rights reserved. </p>
